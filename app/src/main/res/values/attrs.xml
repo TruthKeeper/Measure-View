@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!--自定义星级ratingbar-->
     <declare-styleable name="MeasureView">
         <attr name="size" format="dimension" />  <!--大小-->
         <attr name="offAngle" format="float" />  <!--旋转偏移量-->
@@ -9,7 +8,6 @@
         <attr name="pathSize" format="integer" />  <!--蛛网数量-->
         <attr name="contentColor" format="color" />  <!--填充颜色-->
         <attr name="lineColor" format="color" />  <!--线颜色-->
-
     </declare-styleable>
 
 </resources>
